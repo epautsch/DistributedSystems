@@ -1,0 +1,1 @@
+set(  encoderTests_TESTS)
